@@ -1,0 +1,17 @@
+#plan of action
+# ---------------------------------- Free Use ----------------------------------------------------
+# module to check what working environment- either python/bash required
+
+# create way to to put category of files in dictionary ---> done
+
+# Method of automatically creating folders based on dict:name ----> done  
+
+# move files into respective dict:name folder -----> done
+
+
+# ---------------------------------- Premium ----------------------------------------------------
+# create function to allow user to give folder name
+
+# create function to give users ability to move files according to condition of name
+
+#conduct unit testing with 90% coverage
